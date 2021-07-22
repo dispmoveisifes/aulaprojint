@@ -6,6 +6,8 @@
 
 <?php
 echo "Alteração do Daniel";
+echo "Eu não faço ideia de como php funciona";
+echo "alterando";
 ?> 
 
 </body>
