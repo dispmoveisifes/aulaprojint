@@ -5,7 +5,7 @@
 <h1>Beatriz Auer</h1>
 
 <?php
-echo "Hello World!";
+echo "Eu não faço ideia de como php funciona";
 ?> 
 
 </body>
